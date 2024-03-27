@@ -1,0 +1,14 @@
+.NavBarMain {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.navBar {
+    margin: 0;
+    padding: 10
+}
+
+.navBar a {
+    text-decoration: none;
+
+}
